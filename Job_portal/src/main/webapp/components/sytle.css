@@ -1,0 +1,38 @@
+.navbar-background{
+	background: #283593 !important;
+}
+
+.navbar .nav-item .nav-link{
+	font-size: 20px;
+	color: white;
+}
+
+.navb{
+	font-size: 20px;
+	color: white;
+}
+
+.navbar .nav-item:hover .nav-link{
+	background: white;
+	color: black;
+	border-radius: 10px;
+}
+
+.navb:hover{
+	background: white;
+	color: black;
+	border-radius: 10px;
+}
+
+.main-head{
+	font-size: 50px;
+	color: black;
+	font-weight: 500;
+}
+
+.footer{
+	background: #283593;
+	height: 50px;
+	font-size: 20px;
+}
+
